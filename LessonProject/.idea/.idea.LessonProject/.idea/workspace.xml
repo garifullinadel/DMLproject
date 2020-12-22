@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="202da5dd-8ced-4656-9659-1f3b352ee1ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (2)/Health.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8691AD70-05ED-4755-A182-8378FF0B52B1/78/cac54638/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (2)/SummerPracticDMLProject/Assets/Scripts/Weapon/WeaponTake.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (2)/Easy Weapons/Scripts/Sample/MouseRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (2)/Easy Weapons/Scripts/Sample/FirstPersonCharacter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (2)/PlayerMovement1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Bullet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (3)/Scripts/Explosions_&amp;_Impacts/ImpactScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Weapon/WeaponProp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (2)/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Weapon/WeaponIsTaked.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/PlayerCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/WeaponShooting.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Weapon/WeaponShooting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (2)/SummerPracticDMLProject/Assets/Scripts/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Создать папку (2)/Easy Weapons/Scripts/Sample/FirstPersonHeadBob.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/BulletScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/ImpactScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamageZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/RTSShooter/Controller/Classes/WeaponShooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/RTSShooter/Controller/Classes/RTSController.cs" />
+        <option value="$PROJECT_DIR$/Assets/RTSShooter/Controller/Classes/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/WeaponTake.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/WeaponSwitcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Shooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/AmmoCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/AmmoBarCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/WeaponControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/BulletScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/WeaponShooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/TargetScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/ImpactScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Controller/FPSController.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Weapon/WeaponProp.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Weapon/IsTaked.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Weapon/WeaponIsTaked.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/PlayerCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Weapon/WeaponShooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/FPSShooter/Core/Runtime/Controller/WeaponControl.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i8rvnEzmPv0g0qMQEJgMpN1HQV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="202da5dd-8ced-4656-9659-1f3b352ee1ac" name="Default Changelist" comment="" />
+      <created>1601300299318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601300299318</updated>
+      <workItem from="1601300314393" duration="7111000" />
+      <workItem from="1602482794610" duration="28000" />
+      <workItem from="1602508213556" duration="9378000" />
+      <workItem from="1603719111810" duration="8280000" />
+      <workItem from="1608487482339" duration="50000" />
+      <workItem from="1608502080928" duration="9839000" />
+      <workItem from="1608554735304" duration="3703000" />
+      <workItem from="1608636059943" duration="7990000" />
+      <workItem from="1608645506214" duration="2698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="764" y="194" key="RiderGenerateDialog" timestamp="1608647495104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="194" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608647495104" />
+    <state x="602" y="266" key="run.anything.popup" timestamp="1608638085947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="266" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608638085947" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603723352520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603723352520" />
+  </component>
+</project>
